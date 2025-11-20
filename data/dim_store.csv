@@ -1,0 +1,41 @@
+﻿id_store,city,region,id_warehouse_supplying
+ST001,Paris,Île-de-France,WH01
+ST101,Paris,Île-de-France,WH01
+ST002,Lyon,Auvergne-Rhône-Alpes,WH02
+ST102,Lyon,Auvergne-Rhône-Alpes,WH02
+ST003,Marseille,Provence-Alpes-Côte d'Azur,WH03
+ST103,Marseille,Provence-Alpes-Côte d'Azur,WH03
+ST004,Toulouse,Occitanie,WH04
+ST104,Toulouse,Occitanie,WH04
+ST005,Lille,Hauts-de-France,WH05
+ST105,Lille,Hauts-de-France,WH05
+ST006,Bordeaux,Nouvelle-Aquitaine,WH06
+ST106,Bordeaux,Nouvelle-Aquitaine,WH06
+ST007,Nantes,Pays de la Loire,WH07
+ST107,Nantes,Pays de la Loire,WH07
+ST008,Strasbourg,Grand Est,WH08
+ST108,Strasbourg,Grand Est,WH08
+ST009,Rennes,Bretagne,WH09
+ST109,Rennes,Bretagne,WH09
+ST010,Le Havre,Normandie,WH10
+ST110,Le Havre,Normandie,WH10
+ST011,Dijon,Bourgogne-Franche-Comté,WH11
+ST111,Dijon,Bourgogne-Franche-Comté,WH11
+ST012,Tours,Centre-Val de Loire,WH12
+ST112,Tours,Centre-Val de Loire,WH12
+ST013,Nice,Provence-Alpes-Côte d'Azur,WH13
+ST113,Nice,Provence-Alpes-Côte d'Azur,WH13
+ST014,Montpellier,Occitanie,WH14
+ST114,Montpellier,Occitanie,WH14
+ST015,Grenoble,Auvergne-Rhône-Alpes,WH15
+ST115,Grenoble,Auvergne-Rhône-Alpes,WH15
+ST016,Reims,Grand Est,WH16
+ST116,Reims,Grand Est,WH16
+ST017,Angers,Pays de la Loire,WH17
+ST117,Angers,Pays de la Loire,WH17
+ST018,Clermont-Ferrand,Auvergne-Rhône-Alpes,WH18
+ST118,Clermont-Ferrand,Auvergne-Rhône-Alpes,WH18
+ST019,Nancy,Grand Est,WH19
+ST119,Nancy,Grand Est,WH19
+ST020,Brest,Bretagne,WH20
+ST120,Brest,Bretagne,WH20

@@ -1,0 +1,21 @@
+﻿id_warehouse,wh_name,city,region,capacity
+WH01,Warehouse 1,Paris,Île-de-France,120000
+WH02,Warehouse 2,Lyon,Auvergne-Rhône-Alpes,100000
+WH03,Warehouse 3,Marseille,Provence-Alpes-Côte d'Azur,90000
+WH04,Warehouse 4,Toulouse,Occitanie,80000
+WH05,Warehouse 5,Lille,Hauts-de-France,70000
+WH06,Warehouse 6,Bordeaux,Nouvelle-Aquitaine,85000
+WH07,Warehouse 7,Nantes,Pays de la Loire,65000
+WH08,Warehouse 8,Strasbourg,Grand Est,60000
+WH09,Warehouse 9,Rennes,Bretagne,55000
+WH10,Warehouse 10,Le Havre,Normandie,50000
+WH11,Warehouse 11,Dijon,Bourgogne-Franche-Comté,50000
+WH12,Warehouse 12,Tours,Centre-Val de Loire,60000
+WH13,Warehouse 13,Nice,Provence-Alpes-Côte d'Azur,70000
+WH14,Warehouse 14,Montpellier,Occitanie,65000
+WH15,Warehouse 15,Grenoble,Auvergne-Rhône-Alpes,55000
+WH16,Warehouse 16,Reims,Grand Est,52000
+WH17,Warehouse 17,Angers,Pays de la Loire,48000
+WH18,Warehouse 18,Clermont-Ferrand,Auvergne-Rhône-Alpes,45000
+WH19,Warehouse 19,Nancy,Grand Est,42000
+WH20,Warehouse 20,Brest,Bretagne,40000

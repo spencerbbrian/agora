@@ -1,0 +1,385 @@
+﻿id_brand,brand_name,brand_category,id_products,unit_price
+1,Dolce&Gabbana,,1,99.0
+2,Roberto Cavalli,,2,99.0
+3,Yves Saint Laurent,,3,99.0
+4,Mancera,,4,99.0
+5,Giorgio Armani,,5,99.0
+6,Versace,,6,99.0
+7,Xerjoff,,7,99.0
+8,Chopard,,8,99.0
+9,Uniqo,,9,99.0
+10,Boucheron,,10,99.0
+11,Mont Blanc,,11,99.0
+12,Parfums de Marly,,12,99.0
+13,Juicy Couture,,13,99.0
+14,Maqam,,14,99.0
+15,The Finest,,15,99.0
+16,Al Majed For Oud,,16,99.0
+17,Calvin Klein,,17,99.0
+18,Penhaligon's,,18,99.0
+19,Very Important Notes,,19,99.0
+20,Givenchy,,20,99.0
+21,Dolce & Gabbana,,21,99.0
+22,Ajwa,,22,99.0
+23,Nicolai,,23,99.0
+24,Remal,,24,99.0
+25,Candy Addict,,25,99.0
+26,Al Mas,,26,99.0
+27,Orto Parisi,,27,99.0
+28,Gucci,,28,99.0
+29,Burberry,,29,99.0
+30,Lorenzo Villoresi Firenze,,30,99.0
+31,Exclusive Bundles,,31,99.0
+32,Dkhoun,,32,99.0
+33,Guerlain,,33,99.0
+34,Lacoste,,34,99.0
+35,Deem Perfumes,,35,99.0
+36,Jaguar,,36,99.0
+37,Narciso Rodriguez,,37,99.0
+38,Chanel,,38,99.0
+39,Elie Saab,,39,99.0
+40,Rekaz,,40,99.0
+41,Tom Ford,,41,99.0
+42,Rasasi,,42,99.0
+43,Nasomatto,,43,99.0
+44,Esteban,,44,99.0
+45,Bvlgari,,45,99.0
+46,Coach,,46,99.0
+47,Bentley,,47,99.0
+48,Van Cleef & Arpels,,48,99.0
+49,Lancome,,49,99.0
+50,Lalique,,50,99.0
+51,Alexandre.J,,51,99.0
+52,Al Dakheel Oud,,52,99.0
+53,Dr. Vranjes Firenze,,53,99.0
+54,Chloe,,54,99.0
+55,Sedr Alkhaleej,,55,99.0
+56,Hugo Boss,,56,99.0
+57,Armand Basi,,57,99.0
+58,Byredo,,58,99.0
+59,Swiss Arabian,,59,99.0
+60,Dunhill,,60,99.0
+61,S.T. Dupont,,61,99.0
+62,Woud,,62,99.0
+63,Memo Paris,,63,99.0
+64,Dior,,64,99.0
+65,Parfums GrÃƒÂ¨s,,65,99.0
+66,Parfums GrÃ¨s,,66,99.0
+67,Houbigant,,67,99.0
+68,Mariah Carey,,68,99.0
+69,Alwaleef,,69,99.0
+70,Escada,,70,99.0
+71,Fendi,,71,99.0
+72,Initio,,72,99.0
+73,Hermes,,73,99.0
+74,Franck Olivier,,74,99.0
+75,Tous Les Jours,,75,99.0
+76,Davidoff,,76,99.0
+77,Caron,,77,99.0
+78,Thierry Mugler,,78,99.0
+79,Valentino,,79,99.0
+80,Anfasic Dokhoon,,80,99.0
+81,Atelier Cologne,,81,99.0
+82,Jennifer Lopez,,82,99.0
+83,Mabkharat Alemarat,,83,99.0
+84,Viktor & Rolf,,84,99.0
+85,Montale,,85,99.0
+86,Nikos,,86,99.0
+87,Tiziana Terenzi,,87,99.0
+88,Cartier,,88,99.0
+89,Lanvin,,89,99.0
+90,Giorgio Beverly Hills,,90,99.0
+91,Azzaro,,91,99.0
+92,Elizabeth Arden,,92,99.0
+93,Tommy Hilfiger,,93,99.0
+94,Stella McCartney,,94,99.0
+95,Minis,,95,99.0
+96,Kun Safi,,96,99.0
+97,COZY,,97,99.0
+98,Abreez,,98,99.0
+99,WAW,,99,99.0
+100,Guess,,100,99.0
+101,Vintage,,101,99.0
+102,Perfume Co.,,102,99.0
+103,One Word,,103,99.0
+104,The Different Company,,104,99.0
+105,John B. Sensual,,105,99.0
+106,Mugler,,106,99.0
+107,Rochas,,107,99.0
+108,Cerruti,,108,99.0
+109,Cacharel,,109,99.0
+110,Clinique,,110,99.0
+111,Aigner,,111,99.0
+112,Trussardi,,112,99.0
+113,Carolina Herrera,,113,99.0
+114,La Perla,,114,99.0
+115,Jean Paul Gaultier,,115,99.0
+116,Ajmal,,116,99.0
+117,Atelier Des Ors,,117,99.0
+118,Kholasaat,,118,99.0
+119,Thameen Fragrance,,119,99.0
+120,Ibraheem Al.Qurashi,,120,99.0
+121,Prada,,121,99.0
+122,Paco Rabanne,,122,99.0
+123,IL Profvmo,,123,99.0
+124,Emanuel Ungaro,,124,99.0
+125,Rihanna,,125,99.0
+126,Selena Gomez,,126,99.0
+127,Vince Camuto,,127,99.0
+128,Jean-Louis Scherrer,,128,99.0
+129,Vera Wang,,129,99.0
+130,J. Del Pozo,,130,99.0
+131,Perris,,131,99.0
+132,Shiseido,,132,99.0
+133,Paris Hilton,,133,99.0
+134,Angel Schlesser,,134,99.0
+135,Kenzo,,135,99.0
+136,The Beautiful Mind Series,,136,99.0
+137,Sofia Vergara,,137,99.0
+138,Salvatore Ferragamo,,138,99.0
+139,Michael Kors,,139,99.0
+140,Marina De Bourbon,,140,99.0
+141,Ralph Lauren,,141,99.0
+142,Justin Bieber,,142,99.0
+143,Moschino,,143,99.0
+144,Oscar De La Renta,,144,99.0
+145,Carven,,145,99.0
+146,One Direction,,146,99.0
+147,Dkny,,147,99.0
+148,Britney Spears,,148,99.0
+149,Braccialini,,149,99.0
+150,Bottega Veneta,,150,99.0
+151,Beyonce,,151,99.0
+152,Hayari,,152,99.0
+153,Balmain,,153,99.0
+154,Adrienne Vittadini,,154,99.0
+155,NÃ‚Â°4711,,155,99.0
+156,L'Arc,,156,99.0
+157,Loewe,,157,99.0
+158,Victoria's Secret,,158,99.0
+159,Ferrari,,159,99.0
+160,Amouage,,160,99.0
+161,Tiffany & Co,,161,99.0
+162,Perry Ellis,,162,99.0
+163,Paloma Picasso,,163,99.0
+164,Mauboussin,,164,99.0
+165,Lolita Lempicka,,165,99.0
+166,Mercedes Benz,,166,99.0
+167,Laura Biagiotti,,167,99.0
+168,Korloff,,168,99.0
+169,Kim Kardashian,,169,99.0
+170,Jimmy Choo,,170,99.0
+171,Halloween,,171,99.0
+172,Guy Laroche,,172,99.0
+173,Donna Karan,,173,99.0
+174,Diptyque,,174,99.0
+175,Costume National,,175,99.0
+176,Marc Jacobs,,176,99.0
+177,Micallef Studio,,177,99.0
+178,Nina Ricci,,178,99.0
+179,Agent Provocateur,,179,99.0
+180,Abercrombie & Fitch,,180,99.0
+181,Elizabeth Taylor,,181,99.0
+182,Comme Des Garcons,,182,99.0
+183,La Martina,,183,99.0
+184,Fragrances Hubert Fattal,,184,99.0
+185,Missoni,,185,99.0
+186,Ramon Monegal,,186,99.0
+187,Joop,,187,99.0
+188,Floris London,,188,99.0
+189,Widian,,189,99.0
+190,Louis Vuitton,,190,99.0
+191,Solinotes,,191,99.0
+192,Sisley,,192,99.0
+193,Shakira,,193,99.0
+194,Salvador Dali,,194,99.0
+195,Rue Broca,,195,99.0
+196,Kenneth Cole,,196,99.0
+197,Atkinsons,,197,99.0
+198,Exuma Parfums,,198,99.0
+199,Ideo Parfumeurs,,199,99.0
+200,Bon Parfumeur,,200,99.0
+201,Banana Republic,,201,99.0
+202,Avon,,202,99.0
+203,Afnan,,203,99.0
+204,Karl Lagerfeld,,204,99.0
+205,Vertus,,205,99.0
+206,Ulric de Varens,,206,99.0
+207,Ted Lapidus,,207,99.0
+208,Stephane Humbert,,208,99.0
+209,Junaid Perfumes,,209,99.0
+210,Lootah,,210,99.0
+211,Moresque,,211,99.0
+212,Nasamat,,212,99.0
+213,Palquis,,213,99.0
+214,Orientica,,214,99.0
+215,Miris,,215,99.0
+216,Liz Claiborne,,216,99.0
+217,Kilian,,217,99.0
+218,Jo Malone,,218,99.0
+219,Jadeed,,219,99.0
+220,Issey Miyake,,220,99.0
+221,Giorgio,,221,99.0
+222,Gemina.B,,222,99.0
+223,Diesel,,223,99.0
+224,Carrera Jeans,,224,99.0
+225,OJAR,,225,99.0
+226,Caesars World,,226,99.0
+227,Bond No 9,,227,99.0
+228,Black Dust,,228,99.0
+229,BCBG Max Azria,,229,99.0
+230,Authentic,,230,99.0
+231,Arabian Souvenir,,231,99.0
+232,Antonio Banderas,,232,99.0
+233,Alyssa Ashley,,233,99.0
+234,Acqua Di Parma,,234,99.0
+235,Bath & Body Works,,235,99.0
+236,Zadig & Voltaire,,236,99.0
+237,V Canto,,237,99.0
+238,SAP,,238,99.0
+239,Roja,,239,99.0
+240,Roos & Roos,,240,99.0
+241,Joyau Unique & Sensoriel Parfums,,241,99.0
+242,Jean Antoine,,242,99.0
+243,Gritti,,243,99.0
+244,Glenn Perri,,244,99.0
+245,Geparlys,,245,99.0
+246,Creed,,246,99.0
+247,Kajal Perfumes Paris,,247,99.0
+248,Yantami,,248,99.0
+249,Musk Alemarat,,249,99.0
+250,Reef Perfumes,,250,99.0
+251,Cristiano Ronaldo,,251,99.0
+252,Escentric Molecules,,252,99.0
+253,Baldessarini,,253,99.0
+254,Jean Patou,,254,99.0
+255,Amouroud,,255,99.0
+256,Usher,,256,99.0
+257,Unknown,,257,99.0
+258,Aramis,,258,99.0
+259,Mandarina Duck,,259,99.0
+260,Mercedes-Benz,,260,99.0
+261,Sainte Valere,,261,99.0
+262,Roger & Gallet,,262,99.0
+263,Maurer & Wirtz,,263,99.0
+264,Jil Sander,,264,99.0
+265,Jacques Bogart,,265,99.0
+266,Sergio Tacchini,,266,99.0
+267,Sean John,,267,99.0
+268,Saint Hilaire,,268,99.0
+269,Mustang,,269,99.0
+270,Kiton,,270,99.0
+271,Gilles Cantuel,,271,99.0
+272,Brioni,,272,99.0
+273,Victorinox Swiss Army,,273,99.0
+274,Robert Graham,,274,99.0
+275,Reminiscence,,275,99.0
+276,Faconnable,,276,99.0
+277,Halston,,277,99.0
+278,Fly Falcon,,278,99.0
+279,Eutopie,,279,99.0
+280,K.Arthur,,280,99.0
+281,Scent Zone,,281,99.0
+282,Shakespeare Perfume,,282,99.0
+283,Porsche,,283,99.0
+284,Parfums RP,,284,99.0
+285,Orlov,,285,99.0
+286,Marbert,,286,99.0
+287,Karen Low,,287,99.0
+288,John Varvatos,,288,99.0
+289,Tom Daxon,,289,99.0
+290,Etat Libre d'Orange,,290,99.0
+291,Carner Barcelona,,291,99.0
+292,Ramon Blazar,,292,99.0
+293,LPDO Perfume,,293,99.0
+294,Boulevard Paris,,294,99.0
+295,Pascal Morabito,,295,99.0
+296,Attar Collection,,296,99.0
+297,Ard Al Khaleej,,297,99.0
+298,Chaugan,,298,99.0
+299,Acqua Di Monaco,,299,99.0
+300,David Kasab,,300,99.0
+301,Jul Et Mad,,301,99.0
+302,ABAQ,,302,99.0
+303,Joe Raad,,303,99.0
+304,Wadi Halfa,,304,99.0
+305,Aradous Perfumes,,305,99.0
+306,Brands Me,,306,99.0
+307,Dize Home,,307,99.0
+308,Keba Perfumes,,308,99.0
+309,Mabkharah,,309,99.0
+310,Banafa For Oud,,310,99.0
+311,Arabian Oud,,311,99.0
+312,Oud Lover,,312,99.0
+313,Batalat,,313,99.0
+314,NOOR,,314,99.0
+315,Layl,,315,99.0
+316,Al Khuraiji,,316,99.0
+317,Two Mark,,317,99.0
+318,Alsalman Group For Oud,,318,99.0
+319,Lava Moments,,319,99.0
+320,EstÃƒÂ©e Lauder,,320,99.0
+321,Miu Miu,,321,99.0
+322,Jovan,,322,99.0
+323,Mugler Les Exceptions,,323,99.0
+324,Tory Burch,,324,99.0
+325,Volnay,,325,99.0
+326,Acqua Di Sardegna,,326,99.0
+327,Fan di Fendi,,327,99.0
+328,Santi Burgas,,328,99.0
+329,Masque Milano,,329,99.0
+330,Laurent Mazzone,,330,99.0
+331,CnR Create,,331,99.0
+332,Atelier Flou,,332,99.0
+333,Boadicea,,333,99.0
+334,Amado,,334,99.0
+335,Lola Mood,,335,99.0
+336,D'Orsay,,336,99.0
+337,A Lab on Fire,,337,99.0
+338,Majda Bekkali,,338,99.0
+339,Sospiro,,339,99.0
+340,Clive Christian,,340,99.0
+341,Hermetica,,341,99.0
+342,Mendittorosa,,342,99.0
+343,Biehl,,343,99.0
+344,Au Pays de la Fleur d'Oranger,,344,99.0
+345,Electimuss,,345,99.0
+346,Affinessence,,346,99.0
+347,Aether,,347,99.0
+348,Liquides Imaginaires,,348,99.0
+349,Guru,,349,99.0
+350,Simone Andreoli,,350,99.0
+351,Goutal Paris,,351,99.0
+352,Eisenberg,,352,99.0
+353,Arquiste,,353,99.0
+354,Profumo di Pantelleria,,354,99.0
+355,The Harmonist,,355,99.0
+356,Ormonde Jayne,,356,99.0
+357,Maison Crivelli,,357,99.0
+358,Les Eaux Primordiales,,358,99.0
+359,B96,,359,99.0
+360,Les Parfums De Rosine,,360,99.0
+361,Maison Rebatchi,,361,99.0
+362,Kemi Blending,,362,99.0
+363,Christian Louboutin,,363,99.0
+364,Unique Luxury,,364,99.0
+365,Dali Haute Parfumerie,,365,99.0
+366,Juliette Has A Gun,,366,99.0
+367,Robert Piguet,,367,99.0
+368,MiN NEW YORK,,368,99.0
+369,Dusita,,369,99.0
+370,The Merchant of Venice,,370,99.0
+371,Olibere,,371,99.0
+372,Laboratorio Olfattivo,,372,99.0
+373,Paradis Des Sens,,373,99.0
+374,The Woods Collection By Natural,,374,99.0
+375,D.S. & Durga,,375,99.0
+376,PH,,376,99.0
+377,Lengling,,377,99.0
+378,Ermanno Scervino,,378,99.0
+379,Ella K,,379,99.0
+380,Maison TahitÃ©,,380,99.0
+381,Lucien Ferrero Maitre Parfumeur,,381,99.0
+382,RPL,,382,99.0
+383,Zenology,,383,99.0
+384,Ghawali,,384,99.0
