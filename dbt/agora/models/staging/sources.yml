@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  # The name of the source database/project
+  - name: agora 
+    database: AGORA
+    schema: DATASETS
+    tables:
+      # The name of the table you want to alias as 'dim_products'
+      - name: dim_products 
+        description: The table contains records of products, including their characteristics and attributes. Each record represents a single product and includes details about its brand, features, and properties.
