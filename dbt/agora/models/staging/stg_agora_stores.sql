@@ -10,9 +10,10 @@ WITH source AS (
 renamed_columns AS (
     SELECT
         ID_STORE AS store_id,
-        STORE_NAME AS store_name,
-        STORE_LOCATION AS store_location
+        CITY AS city,
+        REGION AS region,
+        ID_WAREHOUSE_SUPPLYING AS supplying_warehouse
     FROM source
 )
 
-SELECT * FROM renamed_columns;
+SELECT * FROM renamed_columns

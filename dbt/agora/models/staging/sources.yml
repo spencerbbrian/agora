@@ -7,5 +7,15 @@ sources:
     schema: DATASETS
     tables:
       # The name of the table you want to alias as 'dim_products'
-      - name: dim_products 
-        description: The table contains records of products, including their characteristics and attributes. Each record represents a single product and includes details about its brand, features, and properties.
+      - name: dim_brand
+      - name: dim_date
+      - name: dim_products
+      - name: dim_stores
+      - name: dim_warehouses
+      - name: dim_suppliers
+      - name: fct_orders
+      - name: fct_order_lines
+      - name: fct_order_log
+      - name: fct_returns
+      - name: fct_stocks
+      - name: fct_transport_log
