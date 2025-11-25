@@ -23,4 +23,4 @@ renamed_columns AS (
     FROM source
 )
 
-SELECT * FROM renamed_columns;
+SELECT * FROM renamed_columns
